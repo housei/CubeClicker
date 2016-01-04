@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1942191683, guid: 665e7007641162d49b570cba8a539e2d, type: 3}
+  m_Name: ProjectRepository
+  m_EditorClassIdentifier: 
+  _settingsKeys: []
+  _settingsValues: 
+  _diagrams:
+  - {fileID: 11400000, guid: 12f3a257a65a5498999a107cd721095b, type: 2}
+  _projectNamespace: CubeClicker
+  _currentTabs:
+  - _graphIdentifier: 4c89a746-eef0-428a-9e06-f98c4ed5e7ea
+    _graphName: CubeClickerMVVM
+    _path: []
