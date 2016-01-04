@@ -11,7 +11,7 @@ Unity:5.3.1p1
 uFrame:1.6.3r1
 
 ## CubeClickerサンプルの導入方法
-　uFrame1.6.3r1がインポートされたプロジェクトにCubeClicker.unitypackageをインポートし、Build SettingsでCubeClickerのシーンをすべて追加してください。
+　uFrame1.6.3r1がインポートされたプロジェクトに[CubeClicker.unitypackage](./CubeClicker.unitypackage)をインポートし、Build SettingsでCubeClickerのシーンをすべて追加してください。
 
 ![Header3](./images/build_settings.png "")
 
