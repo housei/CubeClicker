@@ -4,7 +4,7 @@ Unityエキスパート養成読本
 第７章uFrame MVVMによるゲーム開発のサンプルです。
 
 ## 動作確認環境
-OS:mac OSX 10.10.4 Yosemite
+OS:Mac OS X 10.10.4 Yosemite
 
 Unity:5.3.1p1
 
