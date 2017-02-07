@@ -17,7 +17,7 @@ namespace CubeClicker.Logic
         }
         
         /// 指定個数のキューブを生成
-        public Cube[] CrateCube(int num)
+        public Cube[] CreateCube(int num)
         {
             var cubes = new Cube[num];
             
