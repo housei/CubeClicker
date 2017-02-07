@@ -51,7 +51,7 @@ namespace CubeClicker.Logic
                 return new Cube[0];
             }
             num = Random.Range(1, num + 1);
-            return _cubeSpawn.CrateCube(num);
+            return _cubeSpawn.CreateCube(num);
         }
 
         /// 制限時間切れになって消滅したキューブの処理
